@@ -1,0 +1,1 @@
+{"name":"Local: LG-P9241","url":"/home/asayar/python/洛谷/LG-P9241.py","tests":[{"id":1790004046802,"input":"2\n3\n0 100 10\n10 10 10\n0 2 20\n3\n0 10 20\n10 10 20\n20 10 20","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asayar/python/洛谷/LG-P9241.py","group":"local","local":true}
