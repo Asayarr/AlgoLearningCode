@@ -1,0 +1,1 @@
+{"name":"Local: LG-P1473","url":"/home/asayar/python/洛谷/LG-P1473.py","tests":[{"id":1791212429599,"input":"7","output":"1+2-3+4-5-6+7\n1+2-3-4+5+6-7\n1-2 3+4+5+6+7\n1-2 3-4 5+6 7\n1-2+3+4-5+6-7\n1-2-3-4-5+6+7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asayar/python/洛谷/LG-P1473.py","group":"local","local":true}

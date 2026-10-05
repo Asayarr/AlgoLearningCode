@@ -1,0 +1,1 @@
+{"name":"Local: LG-P2040","url":"/home/asayar/python/洛谷/LG-P2040.py","tests":[{"id":1791214124143,"input":"0 1 1\n1 0 0\n1 0 1","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asayar/python/洛谷/LG-P2040.py","group":"local","local":true}
