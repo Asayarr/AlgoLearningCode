@@ -1,0 +1,1 @@
+{"name":"Local: LG-B4158","url":"/home/asayar/python/洛谷/LG-B4158.PY","tests":[{"id":1792477505902,"input":"10\n1*\n3**\n7**\n83*7\n2262\n6**1\n29*7\n889*\n777*\n225*","output":"11\n307\n701\n8317\n-1\n6011\n2917\n8893\n-1\n2251"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asayar/python/洛谷/LG-B4158.PY","group":"local","local":true}
