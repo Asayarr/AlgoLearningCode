@@ -1,0 +1,1 @@
+{"name":"Local: LG-P1048","url":"/home/asayar/python/洛谷/LG-P1048.py","tests":[{"id":1792992004400,"input":"70 3\n71 100\n69 1\n1 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asayar/python/洛谷/LG-P1048.py","group":"local","local":true}
