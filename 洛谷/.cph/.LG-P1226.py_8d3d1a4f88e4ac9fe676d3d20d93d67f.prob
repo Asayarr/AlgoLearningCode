@@ -1,0 +1,1 @@
+{"name":"Local: LG-P1226","url":"/home/asayar/python/洛谷/LG-P1226.py","tests":[{"id":1793618423123,"input":"2 10 9","output":"2^10 mod 9=7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/asayar/python/洛谷/LG-P1226.py","group":"local","local":true}
