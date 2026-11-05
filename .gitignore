@@ -2,3 +2,5 @@
 学习路径.html
 *.bak
 .cph/
+__pycache__/
+*.pyc
